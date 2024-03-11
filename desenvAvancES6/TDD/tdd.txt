@@ -1,0 +1,12 @@
+o TDD é criar um teste antes de mesmo de começar a escrever o seu código, descrevendo 
+o comportamento da estrutura analisada. E por fim, fazer a refatoração, para otimizar 
+e ajudar o código.
+        1º- Escrita do teste;
+        2º- Escrita do código;
+        3º- Refatoração;
+    Vantagens:
+        Feedback mais rápido;
+        Código mais limpo;
+        Produtividade;
+        Maior segurança em alterações;
+    

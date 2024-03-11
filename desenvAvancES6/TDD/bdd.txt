@@ -1,0 +1,8 @@
+o BDD é feito pelo TDD, Behavior Driven Development, técnica de desenvolvimento ágil
+que integra algumas regras de negócio com a programação. Tem haver com descrever a fun
+cionalidade de negócio, podendo, ao ler a documentação, entender o comportamento esperado
+dos componentes do código.
+    Vantagens:
+        - Compartilhar o conhecimento
+        - Documentação dinâmica
+        - Visão do todo

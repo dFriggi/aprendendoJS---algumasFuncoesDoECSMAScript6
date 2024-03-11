@@ -1,5 +1,5 @@
 let map = new Map([
-    ['nome' , 'Davi'],
+    ['nome' , 'Davi'],//['chave', 'valor']
     ['idade' , 18],
     ['genero' , 'M']
 ])
